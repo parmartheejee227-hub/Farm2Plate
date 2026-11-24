@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 Farm2Plate – Hyperlocal Cluster-Pooled Farm-to-Society Supply & Traceability Ecosystem
 
 > **Web Technologies and Mobile Programming (WTMP) Course Project**  
@@ -185,3 +186,7 @@ Both the Web Portal and Mobile App include a **Quick Demo Login Bar** with pre-c
 
 ## 🛡️ License
 Built for educational demonstration in the **Web Technologies and Mobile Programming (WTMP)** course.
+=======
+# Farm2Plate
+Farm to Society Supply and Traceability
+>>>>>>> 9d4e7412802aaa01875bc53331d75343fcdd20c2
